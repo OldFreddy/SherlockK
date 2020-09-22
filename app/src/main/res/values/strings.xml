@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sherlock</string>
+    <string name="who">who?</string>
+    <string name="sherlockpic">sherlockPic</string>
+    <string name="hintWho">кто???</string>
+    <string name="choose">Выберите правильный ответ</string>
+    <string name="Crow">Ворона</string>
+    <string name="dog">Пес</string>
+    <string name="Cat">Кот</string>
+</resources>
